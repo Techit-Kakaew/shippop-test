@@ -66,7 +66,7 @@
                                                         class="border border-gray-400 rounded-full p-1 cursor-pointer" 
                                                         type="x" 
                                                         size="12"
-                                                        @click="removeCartProduct(product.id)" />
+                                                        @click.stop="removeCartProduct(product.id)" />
                                                     <VueFeather class="border border-gray-400 rounded-full p-1 cursor-pointer mt-2" type="edit-2" size="12" />
                                                 </div>
                                             </li>
