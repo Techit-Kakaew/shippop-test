@@ -1,0 +1,8 @@
+@import './_variables.scss';
+@import './_tailwind.scss';
+
+body {
+    @media (max-width: 1440px) {
+        width: 1440px;
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 2,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 3,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 4,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 5,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 6,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 7,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        },
+        {
+            "id": 8,
+            "images": [
+                {
+                    "image": "https://picsum.photos/id/413/300/350"
+                },
+                {
+                    "image": "https://picsum.photos/seed/picsum/300/350"
+                }
+            ],
+            "rating": 4,
+            "review": 4,
+            "name": "รสชาติของผลไม้ที่ยังไม่สุกงอม",
+            "price": "599.00",
+            "sale": "499.00",
+            "quantity": 100,
+            "author": "โชนัมจู",
+            "publisher": "Piccolo",
+            "category": "วรรณกรรมเรื่องสั้น",
+            "type": "Books",
+            "barcode": "9999999999"
+        }
+    ]
+}

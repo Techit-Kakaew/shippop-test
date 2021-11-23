@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "3.1.5",
-    "vue-router": "^4.0.12"
+    "feather-icons": "^4.28.0",
+    "vue": "^3.2.22",
+    "vue-feather": "^2.0.0-rc.1",
+    "vue-router": "^4.0.12",
+    "vueperslides": "^3.3.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.2.17",
